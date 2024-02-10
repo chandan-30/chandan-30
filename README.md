@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Chandan Yata</h1>
+<h1 align="center">Hi👋, I'm Sai Chandan Yata</h1>
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 - 🌱 I’m currently learning **new techs**
